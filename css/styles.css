@@ -70,7 +70,7 @@ pre .att {color: #a6a926;} /* attribute */
 pre .val {color: #e6db74;} /* value */
 
 .btn-container, .container {
-	background-color: white;
+	background-color: #2f3437;
 	border-radius: 4px;
 	text-align: center;
 	margin-bottom: 40px;
