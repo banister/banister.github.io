@@ -1,4 +1,4 @@
-document.getElementById("MyButton").onclick = => {
+document.getElementById("MyButton").onclick = function() {
     fetch("https://en5p4qr3jfyinq1.m.pipedream.net/compile_complete", {
         method: "POST",
         headers: {
