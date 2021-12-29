@@ -3,7 +3,7 @@
 }
 body {
 	margin: 0;
-	background: #2f3437;
+	background: #2f3437
 	font-family: 'Lato', sans-serif;
 }
 .header {
@@ -46,7 +46,6 @@ h2 {
 .content {
   width: 80%;
   max-width: 700px;
-  background-color: #2f3437;
 }
 .content-3d {
   width: 50%;
@@ -71,7 +70,7 @@ pre .att {color: #a6a926;} /* attribute */
 pre .val {color: #e6db74;} /* value */
 
 .btn-container, .container {
-	background-color: #2f3437;
+	background-color: white;
 	border-radius: 4px;
 	text-align: center;
 	margin-bottom: 40px;
